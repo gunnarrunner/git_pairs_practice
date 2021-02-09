@@ -1,1 +1,1 @@
-puts "Hello Amigos"
+puts "Hello Friends"
