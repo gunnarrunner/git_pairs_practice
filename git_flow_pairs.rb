@@ -1,3 +1,3 @@
 def greeting
-  puts "Hello Amigos"
+  puts "Hello Friends"
 end
